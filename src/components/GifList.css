@@ -1,0 +1,11 @@
+.gifList ul {
+    list-style: none;
+}
+
+.gifList ul li {
+    margin-bottom: 100;
+}
+
+.active{
+    background-color:lightblue;
+}
